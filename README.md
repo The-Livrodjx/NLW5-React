@@ -1,4 +1,4 @@
-# ![logo /](https://github.com/The-Livrodjx/NLW5-React/blob/master/public/logo.png) Podcastr
+# ![logo /](https://github.com/The-Livrodjx/NLW5-React/blob/master/public/logo.svg)
 
 <br />
 Podcastr é um aplicativo Web para os Devs amantes das notícias mais quentes sobre o mundo da programação.
